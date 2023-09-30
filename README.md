@@ -1,6 +1,8 @@
 # Dialogue
-A dialogue class for pygame with text crawl
+A dialogue class for pygame with text crawl (MIT license)
+
 It has two functions, init (the constructor) and update
+
 init takes in 11 arguments (out of which the last 4 are optional)
 ```
 def __init__(self,
