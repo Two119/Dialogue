@@ -1,4 +1,3 @@
-from assets.scripts.core_funcs import *
 import pygame
 class Dialogue:
     max_speed = 10
